@@ -33,7 +33,7 @@ pipeline {
         }
     }
 }
-post {
+    post {
         always {
             echo "Always display this message "
         }
